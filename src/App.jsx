@@ -1,9 +1,9 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 
-import Header from "./Header/Header";
-import Cart from "./Cart/Cart";
-import Home from "./Home/Home";
+import Header from "./components/Header/Header";
+import Cart from "./components/Cart/Cart";
+import Home from "./components/Home/Home";
 
 const App = () => (
   <>
