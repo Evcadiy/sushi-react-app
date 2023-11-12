@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  gap: 10px;
+  button {
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
